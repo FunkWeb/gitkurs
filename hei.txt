@@ -3,3 +3,5 @@ Hei, dette er en fil
 Den har flere rader
 
 Og så skriver vi litt på denne raden også...
+
+Vi legger til to nye linjer pluss litt ekstra tekst
