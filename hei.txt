@@ -1,0 +1,5 @@
+Hei, dette er en fil
+
+Den har flere rader
+
+Og så skriver vi litt på denne raden også...
