@@ -1,5 +1,7 @@
 Hei, dette er en fil
 
-Og så skriver vi litt på denne raden også...
+Hei, ny rad! Who dis?
+
+Og så skriver vi litt på denne raden også....
 
 Vi legger til to nye linjer pluss litt ekstra tekst og enda mer tekst
